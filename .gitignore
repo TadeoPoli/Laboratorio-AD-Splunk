@@ -1,0 +1,77 @@
+# Material de trabajo no destinado a publicacion
+/Borradores/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configuracion local de editores
+/.vscode/
+/.idea/
+
+# Temporales y respaldos
+*.tmp
+*.temp
+*.bak
+*.old
+*.swp
+*~
+~$*
+*.log
+
+# Archivos de entorno y material de autenticacion
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+id_rsa
+id_ed25519
+
+# Instaladores y maquinas virtuales
+*.iso
+*.ova
+*.ovf
+*.vmdk
+*.vmx
+*.vmxf
+*.nvram
+*.vmem
+*.vmsd
+*.vmsn
+*.vmss
+*.vhd
+*.vhdx
+*.vdi
+*.lck/
+
+# Capturas originales no utilizadas en la documentacion publica
+/Image/Fase1/KaliPurple-2026-10-20-17-14-50.png
+/Image/Fase1/KaliPurple-2026-10-20-18-00-18.png
+/Image/Fase1/KaliPurple-2026-10-20-18-00-35.png
+/Image/Fase1/KaliPurple-2026-10-20-18-04-04.png
+/Image/Fase1/KaliPurple-2026-10-20-18-05-18.png
+/Image/Fase1/KaliPurple-2026-10-20-18-05-25.png
+/Image/Fase1/KaliPurple-2026-10-20-18-08-29.png
+/Image/Fase1/KaliPurple-2026-10-20-18-13-31.png
+/Image/Fase1/Windows Server 2022 (2)-2026-10-20-19-58-35.png
+/Image/Fase2/KaliPurple-2026-10-21-18-38-46.png
+/Image/Fase2/KaliPurple-2026-10-21-18-48-56.png
+/Image/Fase2/KaliPurple-2026-10-21-18-50-55.png
+/Image/Fase2/KaliPurple-2026-10-21-19-02-08.png
+/Image/Fase2/KaliPurple-2026-10-21-19-22-48.png
+/Image/Fase2/KaliPurple-2026-10-21-19-23-43.png
+/Image/Fase2/KaliPurple-2026-10-21-19-28-09.png
+/Image/Fase2/KaliPurple-2026-10-21-19-41-11.png
+/Image/Fase2/KaliPurple-2026-10-21-19-42-16.png
+/Image/Fase2/KaliPurple-2026-10-21-19-44-06.png
+/Image/Fase2/KaliPurple-2026-10-21-19-45-02.png
+/Image/Fase2/KaliPurple-2026-10-21-19-49-25.png
+/Image/Fase2/KaliPurple-2026-10-21-20-26-38.png
+/Image/Fase2/KaliPurple-2026-10-21-20-46-03.png
+/Image/Fase2/KaliPurple-2026-10-21-21-05-38.png
+/Image/Fase2/KaliPurple-2026-10-21-21-28-08.png
+/Image/Fase2/WS01.corp.local-2026-10-21-19-40-45.png
+/Image/Fase2/WS01.corp.local-2026-10-21-19-42-00.png
